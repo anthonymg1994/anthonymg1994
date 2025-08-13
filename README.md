@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Anthony 👋
+
+I'm an Android developer with 7 years of experience creating native apps in Java and Kotlin, from the first line of code to their release.  
+I’ve also developed hybrid apps with React Native and worked on backend development for some projects.  
+I love learning new technologies and finding better ways to build great products.
