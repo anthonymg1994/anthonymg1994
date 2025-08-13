@@ -30,12 +30,13 @@ I love learning new technologies and finding better ways to build great products
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 **🤖 Android:**  
-![Android SDK](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)  
 
 **🏗 Architecture & Patterns:**  
 ![MVVM](https://img.shields.io/badge/MVVM-6DB33F?style=for-the-badge) 
 ![MVI](https://img.shields.io/badge/MVI-F7DF1E?style=for-the-badge) 
+![MVP](https://img.shields.io/badge/MVP-FF6F00?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=architecture&logoColor=white)  
 
 **⏱ Concurrency:**  
@@ -68,7 +69,7 @@ Worked on Android projects using Kotlin, MVVM, MVI, Jetpack Compose, Room, and G
 Clients: Nissan, Walmart USA, Royal Caribbean
 
 **Mobile Developer – apto**  
-Built 6–7 apps from scratch to publication, including React Native apps, and contributed to backend/frontend development using React, PHP, Node.js, and Python.  
+Built 6–10 apps from scratch to publication, including React Native apps, and contributed to backend/frontend development using React, PHP, Node.js, and Python.  
 
 **Android Developer – BridgeStudio**  
 Developed Android apps for e-commerce and car rental, integrating APIs and payment gateways.  
