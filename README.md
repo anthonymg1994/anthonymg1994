@@ -63,17 +63,17 @@ I love learning new technologies and finding better ways to build great products
 
 ### 💼 Experience
 
-**Senior Android Developer – Globant (2022–2025)**  
+**Senior Android Developer – Globant**  
 Worked on Android projects using Kotlin, MVVM, MVI, Jetpack Compose, Room, and GraphQL, mentoring junior developers and supporting beta releases.  
 Clients: Nissan, Walmart USA, Royal Caribbean
 
-**Mobile Developer – apto (2017–2022)**  
+**Mobile Developer – apto**  
 Built 6–7 apps from scratch to publication, including React Native apps, and contributed to backend/frontend development using React, PHP, Node.js, and Python.  
 
-**Android Developer – BridgeStudio (2016–2017)**  
+**Android Developer – BridgeStudio**  
 Developed Android apps for e-commerce and car rental, integrating APIs and payment gateways.  
 
-**Android & iOS Developer – Mobile Innovation Platforms, Norden (2016)**  
+**Android & iOS Developer – Mobile Innovation Platforms, Norden**  
 Developed Android and iOS apps using Java and Objective-C, following Agile methodologies and Git version control.  
 
 ---
